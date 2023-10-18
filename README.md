@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of building a network envirnment and setting up a virtual machine using Oracle virtual Bo. In this Lab we are building our knowlage on how windows and active directory works. We will also be configureing and running a powershell. 
+Project consists of building a network envirnment and setting up a virtual machine using Oracle virtual Box. In this Lab we are building our knowlage on how windows and active directory works. We will also be configureing and running a powershell. 
 <br />
 
 

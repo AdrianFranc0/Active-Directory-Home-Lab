@@ -9,7 +9,7 @@ Project consists of building a network envirnment and setting up a virtual machi
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Oracle VM</b>
 
 <h2>Environments Used </h2>
 

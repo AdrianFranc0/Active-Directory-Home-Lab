@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of building a network envirnment and setting up a virtual machine using Oracle virtual Box. In this Lab we are building our knowlage on how windows and active directory works. We will also be configureing and running a powershell. Within the Virtual Windows 10 machine it will have many users in the enviornment, emulating a work setup/enviornment. 
+Project consists of building a network enviornment and setting up a virtual machine using Oracle virtual Box. In this Lab we are building our knowlage on how windows and active directory works. We will also be configureing and running a powershell. Within the Virtual Windows 10 machine it will have many users in the enviornment, emulating a work setup/enviornment. 
 <br />
 
 
